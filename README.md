@@ -1,25 +1,3 @@
-Django-CRM
-==========
-
-Django CRM is opensource CRM developed on django framework. It has all
-the basic features of CRM to start with. We welcome code contributions
-and feature requests via github.
-
-<http://django-crm.readthedocs.io> for latest documentation
-
-This project contains the following modules:
-
-> -   Contacts
-> -   Accounts
-> -   Invoices
-> -   Cases
-> -   Leads
-> -   Opportunity
-> -   Planner
-
-## Try for free [here](https://bottlecrm.com/)
----
-
 # Installation
 We recommend ubuntu 18.04 or ubuntu 20.04. These instructions are verified for ubuntu 20.04.
 
@@ -73,32 +51,3 @@ pipdeptree # to see pip dependancy tree
 black # to format code to meet python coding standards
 pip-check -H  # to see upgradable packages
 ```
-
-Community
-=========
-
-Get help or stay up to date.
-
--   [Issues](<https://github.com/MicroPyramid/Django-CRM/issues>)
--   Follow [@micropyramid](<https://twitter.com/micropyramid>) on Twitter
--   Ask questions on [Stack Overflow](<https://stackoverflow.com/questions/tagged/django-crm>)
--   Chat with community [Gitter](<https://gitter.im/MicroPyramid/Django-CRM>)
--   For customisations, email to <django-crm@micropyramid.com>
-
-Credits
--------
-
-### Contributors
-
-This project exists thanks to all the people who contribute!
-
-![image](https://opencollective.com/django-crm/contributors.svg?width=890&button=false)
-
-
-Feature requests and bug reports
-================================
-
-We welcome your feedback and support, raise github issue if you want to
-report a bug or request new feature. we are glad to help.
-
-For commercial support [Contact us](https://micropyramid.com/contact-us/)
